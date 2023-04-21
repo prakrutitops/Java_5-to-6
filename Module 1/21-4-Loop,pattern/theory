@@ -1,0 +1,116 @@
+1)
+c Language:
+
+input=tops
+output=tops4
+
+Terms and conditions:
+1)Functions use are not allowed
+2)Loop
+3)Conditional statement
+4)Array
+5)variable declare
+
+2)Loop With Semicolon
+
+
+
+Loop:
+
+1)for :
+
+for(initization;condition;incre/decre)
+{
+
+}
+
+2)while:Entry control loop
+
+initialization
+
+while(condition)
+{
+	statement 
+}
+
+3)do while:Exit Control Loop
+
+initialization
+do
+{
+	statement ;	
+}
+while(condition);
+
+
+Pattern:
+
+
+Left to Right:
+
+1)
+
+*
+**
+***
+****
+*****
+
+2)
+1
+22
+333
+4444
+55555
+
+3)
+1
+12
+123
+1234
+12345
+
+Right to Left:
+
+4)
+    *
+   **
+  ***
+ ****
+*****
+
+5)
+    1
+   21
+  321
+ 4321
+54321
+
+6)
+    1
+   22
+  333
+ 4444
+55555
+
+OOP:Object Oriented Programming
+
+1)Object:Any Entity which has own state and behaviour
+ex:pen,paper,chair etc..
+
+2)Class:Collection of objects 
+ex: human body
+
+3)Abstraction:hiding internal details and showing functionalities
+ex:facebook login page
+
+4)Encapsulation:Wrapping up of data or binding of data
+ex:capsule
+
+5)Inheritance:When one object acquire all the properties and behaviour of parent class
+ex:father-son
+
+6)Polymorphism:Many ways to perform anything
+ex:road ways
+
+
