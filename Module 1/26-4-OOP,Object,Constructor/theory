@@ -1,0 +1,13 @@
+POP->procedural oriented programming->Functions
+OOP->object oriented programming->Method
+
+Constuctor -> Method having a same as a classname
+
+->does not have a return type
+
+types of constructor
+1)default
+2)parameterized
+3)copy
+
+
