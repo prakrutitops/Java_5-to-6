@@ -1,0 +1,11 @@
+Array:Collection of elements that is called an array
+
+Single Dimensional
+Multi
+
+int marks[5]-in c
+
+int marks[] = new int[5];-in java
+
+array index starts with 0
+
