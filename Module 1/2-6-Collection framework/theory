@@ -1,1 +1,39 @@
 
+Collection Framework:
+
+Interface
+
+1)List:
+
+=>ArrayList:
+	add
+	addAll
+	remove
+	removeAll
+	retainAll
+
+=>LinkedList:
+	add
+	addAll
+	remove
+	removeAll
+	retainAll
+	addFirst
+	addLast
+2)Set:
+
+=>HashSet:Remove Duplicate Elements
+	add
+	addAll
+	remove
+	removeAll
+	retainAll
+
+=>LinkedHashSet:Remove Duplicate Elements
+	add
+	addAll
+	remove
+	removeAll
+	retainAll
+
+3)Map:
