@@ -1,0 +1,56 @@
+HashMap ->
+
+put
+get
+
+pair=>key,value 
+
+Generics Method
+
+comparator
+comparable
+
+comapre
+compareTo
+
+
+<Generic type>
+
+var regex=""
+if(num.match(regex))
+{
+}
+else
+{
+}
+
+
+10
+1
+12
+15
+7
+
+
+10
+1
+12
+7
+15
+
+
+
+1
+10
+12
+7
+15
+
+
+1
+7
+10
+12
+15
+
+
