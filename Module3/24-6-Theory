@@ -1,0 +1,55 @@
+SQL:Structured query language
+
+SQL->Language
+MYSQL->Database
+
+
+
+WAMP
+W=>Windows
+A=>Apache
+M=>Mysql
+P=>phpmyadmin
+
+MAMP
+M=>Mac
+A=>Apache
+M=>Mysql
+P=>phpmyadmin
+
+
+LAMP
+L=>linux
+A=>Apache
+M=>Mysql
+P=>phpmyadmin
+
+XAMPP
+X=>Cross Platform
+A=>Apache Server
+M=>Mysql
+P=>Perl
+P=>phpmyadmin
+
+Types of commands in MYSQL
+1)DDL:Data Definition Language
+=>create,alter,drop,truncate,rename
+
+2)DML:Data Manipulation Language
+=>insert,update,delete
+
+3)DQL:Data Query Language
+=>select
+
+4)DCL:Data Control Language
+=>rollback,commit
+
+
+
+
+
+
+
+
+
+
