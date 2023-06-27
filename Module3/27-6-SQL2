@@ -1,0 +1,80 @@
+JOIN-> 
+
+
+1) JOIN[INNER JOIN]
+2) LEFT JOIN
+3) RIGHT JOIN
+4) FULL JOIN
+
+INNER JOIN	
+
+SELECT column_name(s)
+FROM table_name1
+INNER JOIN table_name2 
+ON table_name1.column_name=table_name2.column_name
+******************************************************************************************************
+LEFT JOIN	
+
+SELECT column_name(s)
+FROM table_name1
+LEFT JOIN table_name2 
+ON table_name1.column_name=table_name2.column_name
+******************************************************************************************************
+RIGHT JOIN	
+
+SELECT column_name(s)
+FROM table_name1
+RIGHT JOIN table_name2 
+ON table_name1.column_name=table_name2.column_name
+******************************************************************************************************
+FULL JOIN	
+
+SELECT column_name(s)
+FROM table_name1
+LEFT JOIN table_name2 
+ON table_name1.column_name=table_name2.column_name
+
+UNION
+
+
+SELECT column_name(s)
+FROM table_name1
+RIGHT JOIN table_name2 
+ON table_name1.column_name=table_name2.column_name
+
+Constraint Keys:
+
+1) Primary -> data duplication avoid
+2) Foreign -> refrence pass on
+3) Unique  -> uniquely data identify
+
+Functions: Return type
+
+1)Scalar Function:
+UCASE -> SELECT UCASE(name) FROM student 
+LCASE -> SELECT LCASE(name) FROM student
+MID -> SELECT MID(name,1,4) FROM student; 
+LENGTH -> SELECT LENGTH(name) FROM student; 
+ROUND -> SELECT ROUND(MARKS,0) FROM table_name;
+NOW -> SELECT NAME, NOW() AS DateTime FROM Students;
+FORMAT -> SELECT NAME, FORMAT(Now(),'YYYY-MM-DD') AS Date FROM Students; 
+
+2)Agreegate Function:
+MAX -> SELECT MAX(salary) FROM student
+MIN -> SELECT MIN(salary) FROM student
+SUM -> SELECT SUM(salary) FROM student
+AVG -> SELECT AVG(salary) FROM student
+COUNT ->SELECT COUNT(salary) FROM student
+FIRST ->SELECT salary FROM student LIMIT 1;    
+LAST ->SELECT salary FROM student ORDER BY salary ASC LIMIT 1;    
+
+Procedures:
+
+
+
+
+
+
+
+
+
