@@ -1,0 +1,25 @@
+css -> cascading style sheets
+
+inline:
+<p style="color: blue;">
+
+internal:
+<style type="text/css">
+
+	p
+	{
+		color: blue;
+		margin: 3%;
+		
+	}
+
+	input
+	{
+		
+	}
+
+</style>
+
+
+external:
+<link rel="stylesheet" href="style.css">
