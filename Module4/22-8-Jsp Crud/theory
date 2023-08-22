@@ -1,0 +1,34 @@
+JSP -> Java Server Pages
+JSTL -> Java Server Tag Library
+
+HTML ->designing->designing
+Servlet -> Coding->java
+
+Jsp is the extension of servlet
+
+
+JSP -> Html+java
+
+JSP Tags
+
+1)Scriptlet Tag:
+<% java source code %>
+
+2)Expression Tag:
+<%= %>
+
+3)Declaration Tag
+<%! %>
+
+Action tags:
+
+Implicit Objects:
+
+Context -> Per Web App
+Config -> Per Servlet
+
+
+
+
+
+
